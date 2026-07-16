@@ -35,11 +35,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="www.linkedin.com/in/ayush-chaudhary-7a6a38325">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:ayusshhh627@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
@@ -51,18 +51,6 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,react,mysql,git,github,vscode,flask,tensorflow" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayusshhh7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusshhh7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -83,26 +71,6 @@
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayusshhh7&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ayusshhh7/Ayusshhh7/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayusshhh7&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
