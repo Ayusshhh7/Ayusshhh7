@@ -58,14 +58,13 @@
 
 # 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ayusshhh7&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Ayushhh7&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-
----
-
 # ✍️ Random Dev Quote
 
 <p align="center">
