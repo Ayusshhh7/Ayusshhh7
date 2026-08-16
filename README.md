@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Ayushhh7&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Ayush-chaudhary-7a6a38325&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 # ✍️ Random Dev Quote
