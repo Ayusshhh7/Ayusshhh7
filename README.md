@@ -16,12 +16,12 @@
 
 💻 Passionate about Python, AI/ML and Web Development
 
-🌱 Currently learning
+🌱 Currently learning:
 - Data Structures & Algorithms
 - Machine Learning
 - Frontend Development
 
-🚀 Building Projects every week
+🚀 Building projects every week
 
 ⚡ Fun Fact:
 > I love turning ideas into real projects.
@@ -31,17 +31,19 @@
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/Ayusshhh7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="www.linkedin.com/in/ayush-chaudhary-7a6a38325">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ayush-chaudhary-7a6a38325">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayusshhh627@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -58,13 +60,19 @@
 
 # 🔥 GitHub Streak
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Ayush-chaudhary-7a6a38325&theme=tokyonight&hide_border=true" />
-  </a>
+
+<img src="https://streak-stats.demolab.com/?user=Ayusshhh7&theme=tokyonight&hide_border=true" />
+
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayusshhh7&theme=github-compact)](https://github.com/Ayusshhh7)
+---
+
 # ✍️ Random Dev Quote
 
 <p align="center">
@@ -77,12 +85,22 @@
 
 # 📌 Featured Projects
 
-- 🎮 Snake Game (Python + Tkinter)
-- 🏓 Pong Game
-- 🎲 Connect 4
-- 📄 Resume Parser using Python
-- 🤖 Machine Learning Projects
-- 🌐 Frontend Web Projects
+- 🎮 **Snake Game** — Python + Tkinter
+- 🏓 **Pong Game** — Python
+- 🎲 **Connect 4** — Python
+- 📄 **Resume Parser** — Python + NLP
+- 🤖 **Machine Learning Projects**
+- 🌐 **Frontend Web Projects**
+
+---
+
+# 🚀 Currently Working On
+
+- 🧠 Improving DSA & Problem Solving
+- 🤖 Learning Machine Learning
+- 🌐 Building Frontend Projects
+- 🐍 Developing Python Projects
+- 💼 Preparing for Software Development Internships
 
 ---
 
