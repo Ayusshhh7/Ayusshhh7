@@ -70,9 +70,17 @@
 
 ## 📈 Contribution Graph
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayusshhh7&theme=github-compact)](https://github.com/Ayusshhh7)
----
+<p align="center">
 
+<img
+  src="https://github-activity-chart.vercel.app/graph?username=Ayusshhh7&days=31"
+  width="100%"
+  alt="Ayush GitHub Activity Graph"
+/>
+
+</p>
+
+---
 # ✍️ Random Dev Quote
 
 <p align="center">
