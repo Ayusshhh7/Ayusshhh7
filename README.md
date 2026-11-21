@@ -1,5 +1,9 @@
+
+
 # 👋 Hi, I'm Ayush Chaudhary
 
+
+<img align="right" src="./ayush.png" width="180" alt="Ayush Chaudhary"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Web+Developer;Building+Real-World+Projects!" />
 </p>
